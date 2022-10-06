@@ -1,0 +1,46 @@
+body {
+    background-color: #0095b6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: black;
+    text-decoration: underline solid #7df9ff;
+}
+
+h2 {
+    text-decoration: underline overline dashed #c6c386;
+}
+
+h3 {
+    color: #c6c386;
+    border-style: dotted;
+    border-color: #7df9ff;
+    border-radius: 10px;
+    border-width: 5px;
+    display: inline;
+}
+
+h4 {
+    color: #7df9ff;
+}
+
+ul {
+    background-color: #0892d0;
+    color: #7df9ff;
+    border-style: inset;
+    border-color: #c6c386;
+    border-radius: 10px;
+    border-width: 5px;
+}
+
+strong {
+    color: black;
+}
+
+ol {
+    border-style: inset;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 5px;
+}
